@@ -1,4 +1,4 @@
-# 👤 Antonio Manjavacas
+# Antonio Manjavacas
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-manjavacas/)
 ![Mastodon Badge](https://img.shields.io/mastodon/follow/109364006136923304?domain=https%3A%2F%2Fsigmoid.social&style=social)
