@@ -7,6 +7,7 @@
 
 ## 📚 Working on...
 
+* Artificial intelligence.
 * Deep Reinforcement Learning.
 * Nuclear fusion & safety at [IFMIF-DONES](https://ifmif-dones.es/).
 * Surrogate models.
