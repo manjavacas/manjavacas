@@ -10,5 +10,5 @@
 * Artificial intelligence.
 * Deep Reinforcement Learning.
 * Nuclear fusion & safety at [IFMIF-DONES](https://ifmif-dones.es/).
+* Building Energy Optimization (see [Sinergym](https://github.com/ugr-sail/sinergym)).
 * Surrogate models.
-* Building Energy Optimization.
