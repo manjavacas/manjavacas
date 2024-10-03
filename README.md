@@ -5,7 +5,5 @@
 
 ## 📚 Working on...
 
-* Artificial intelligence.
-  * Deep Reinforcement Learning.
+* Reinforcemetn Learning & Building Energy Optimization (see [Sinergym](https://github.com/ugr-sail/sinergym)).
 * Nuclear fusion & safety at [IFMIF-DONES](https://ifmif-dones.es/).
-* Building Energy Optimization (see [Sinergym](https://github.com/ugr-sail/sinergym)).
