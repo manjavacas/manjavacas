@@ -5,5 +5,5 @@
 
 ## 📚 Working on...
 
-* Reinforcemetn Learning & Building Energy Optimization (see [Sinergym](https://github.com/ugr-sail/sinergym)).
+* Reinforcement Learning & Building Energy Optimization (see [Sinergym](https://github.com/ugr-sail/sinergym)).
 * Nuclear fusion & safety at [IFMIF-DONES](https://ifmif-dones.es/).
