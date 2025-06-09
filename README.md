@@ -5,3 +5,5 @@
 
 * Reinforcement Learning & Building Energy Optimization (see [Sinergym](https://github.com/ugr-sail/sinergym)).
 * Nuclear fusion & safety at [IFMIF-DONES](https://ifmif-dones.es/).
+
+![](https://github-readme-stats.vercel.app/api?username=manjavacas&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
